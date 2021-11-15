@@ -10,6 +10,8 @@ public class DBProyectoGIT {
        String nombre2 = "Luis";
        String Apellido2 = "Linares";
        
+       String nombre3 = "Jose";
+       String Apellido3 = "Mejia";
     }
     
 }
